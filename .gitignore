@@ -7,3 +7,4 @@
 # Only track these at repo root
 !.gitignore
 !/sp2026_midterm_student_baseline_colab.ipynb
+!/part2.ipynb
